@@ -1,4 +1,5 @@
 git-inspector
+####
 A lightweight Bash script that inspects a local Git repository and displays useful metadata including branch information, recent commits, contributor stats, remotes, and working directory status.
 
 ## Features
